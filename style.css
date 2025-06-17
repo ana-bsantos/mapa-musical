@@ -1,38 +1,32 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f9f9f9;
   text-align: center;
-  padding: 20px;
+  background-color: #f0f0f0;
 }
 
-h1 {
-  color: #333;
+.mapa-container {
+  position: relative;
+  display: inline-block;
 }
 
-.mapa {
-  width: 80%;
-  max-width: 600px;
-  margin: 20px auto;
-  border: 2px solid #ccc;
-  border-radius: 10px;
+.mapa-container img {
+  width: 600px;
+  max-width: 100%;
+  height: auto;
 }
 
-.botoes button {
-  margin: 10px;
-  padding: 15px 30px;
-  font-size: 16px;
-  background-color: #3498db;
+.botao {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  background-color: #ff69b4;
   color: white;
   border: none;
-  border-radius: 10px;
+  padding: 8px 12px;
+  border-radius: 8px;
   cursor: pointer;
+  font-size: 14px;
 }
 
-.botoes button:hover {
-  background-color: #2980b9;
-}
-
-audio {
-  margin-top: 30px;
-  width: 80%;
+.botao:hover {
+  background-color: #ff1493;
 }
