@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+.mapa {
+  width: 80%;
+  max-width: 600px;
+  margin: 20px auto;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
+
+.botoes button {
+  margin: 10px;
+  padding: 15px 30px;
+  font-size: 16px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.botoes button:hover {
+  background-color: #2980b9;
+}
+
+audio {
+  margin-top: 30px;
+  width: 80%;
+}
