@@ -18,8 +18,8 @@ body {
 .botao {
   position: absolute;
   transform: translate(-50%, -50%);
-  background-color: #d4cfcf;
-  color: white;
+  background-color: transparent;
+  color:  #000; /* ou white, dependendo do mapa */
   border: none;
   padding: 8px 12px;
   border-radius: 8px;
