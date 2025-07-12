@@ -23,7 +23,7 @@ body {
 .botao {
   position: absolute;
   transform: translate(-50%, -50%);
-  background-color: transparent;
+  background-color: #f51818;
   color:  #000; /* ou white, dependendo do mapa */
   border: none;
   padding: 8px 12px;
