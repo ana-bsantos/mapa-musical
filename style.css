@@ -2,6 +2,7 @@ body {
   font-family: Arial, sans-serif;
   text-align: center;
   background-color: #fff7db;
+  margin: 0;
 }
 
 .mapa-container {
@@ -20,7 +21,7 @@ body {
   position: absolute;
   transform: translate(-50%, -50%);
   background-color: #f51818;
-  color:  #000; /* ou white, dependendo do mapa */
+  color:  white;
   border: none;
   padding: 8px 12px;
   border-radius: 8px;
