@@ -17,6 +17,12 @@ body {
   height: auto;
   }
 
+.imagem-abaixo {
+  width: 100%;
+  max-width: 600px; /* ou qualquer tamanho limite */
+  margin-top: 20px;
+}
+
 .botao {
   position: absolute;
   transform: translate(-50%, -50%);
