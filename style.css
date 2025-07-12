@@ -1,7 +1,7 @@
 body {
   font-family: Arial, sans-serif;
   text-align: center;
-  background-color: #fff7db;
+  background-color: #fcefcf;
   margin: 0;
 }
 
@@ -20,9 +20,9 @@ body {
 .botao {
   position: absolute;
   transform: translate(-50%, -50%);
-  background-color: #f51818;
-  color:  white;
-  border: none;
+  background-color: #fc4800;
+  color: white;
+  border: #fc4800;
   padding: 8px 12px;
   border-radius: 8px;
   cursor: pointer;
