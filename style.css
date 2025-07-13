@@ -27,8 +27,8 @@ body {
   position: absolute;
   transform: translate(-50%, -50%);
   background-color: #fc4800;
-  color: white;
-  border: #fc4800;
+  color: none;
+  border: none;
   padding: 8px 12px;
   border-radius: 8px;
   cursor: pointer;
@@ -36,5 +36,5 @@ body {
 }
 
 .botao:hover {
-  background-color: #212121;
+  background-color: #a81324;
 }
