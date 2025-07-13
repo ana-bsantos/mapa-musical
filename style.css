@@ -31,14 +31,13 @@ body {
   background-color: transparent;
   color: transparent;
   border: none;
-  padding: 8px 12px;
-  border-radius: 8px;
+  border-radius: 50%;
   cursor: pointer;
-  font-size: 1.5vw; /* Tamanho ajusta com a tela */
-  padding: 0.8vw 1.2vw;
+  font-size: 1vw; /* Tamanho ajusta com a tela */
+  padding: 0.5vw 0.8vw;
 }
 
 .botao:hover {
-  background-color: #a81324;
+  background-color: rgba(168, 19, 36, 0.5);
   opacity: 1;
 }
