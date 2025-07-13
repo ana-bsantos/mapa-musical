@@ -33,11 +33,11 @@ body {
   border: none;
   border-radius: 4px;
   cursor: pointer;
-  font-size: 17px; /* Tamanho ajusta com a tela */
+  font-size: 18px; /* Tamanho ajusta com a tela */
   padding: 4px 6px;
 }
 
 .botao:hover {
-  background-color: rgba(168, 19, 36, 0.4);  /* 🔴 Hover com 40% de opacidade */;
+  background-color: rgba(168, 19, 36, 0.6);
   opacity: 1;
 }
