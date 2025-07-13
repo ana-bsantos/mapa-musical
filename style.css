@@ -10,7 +10,7 @@ body {
   display: inline-block;
   width: 100%;
   max-width: 100%;
-  margin: 3 auto;
+  margin: 0 auto;
 }
 
 .mapa-container img {
@@ -34,7 +34,8 @@ body {
   padding: 8px 12px;
   border-radius: 8px;
   cursor: pointer;
-  font-size: 1.5vw; /* 🔥 Tornar tamanho do botão responsivo */
+  font-size: 1.5vw; /* Tamanho ajusta com a tela */
+  padding: 0.8vw 1.2vw;
 }
 
 .botao:hover {
