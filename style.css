@@ -34,7 +34,7 @@ body {
   padding: 8px 12px;
   border-radius: 8px;
   cursor: pointer;
-  font-size: 17px;
+  font-size: 1.5vw; /* 🔥 Tornar tamanho do botão responsivo */
 }
 
 .botao:hover {
