@@ -38,6 +38,6 @@ body {
 }
 
 .botao:hover {
-  background-color: rgba(168, 19, 36, 0.5);
+  background-color: rgba(168, 19, 36, 0.4);  /* 🔴 Hover com 40% de opacidade */;
   opacity: 1;
 }
