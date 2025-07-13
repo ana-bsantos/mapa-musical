@@ -10,11 +10,13 @@ body {
   display: inline-block;
   width: 100%;
   max-width: 100%;
+  margin: 3 auto;
 }
 
 .mapa-container img {
   width: 100%;
   height: auto;
+  display: block;
   }
 
 .imagem-abaixo {
@@ -28,7 +30,7 @@ body {
   transform: translate(-50%, -50%);
   background-color: transparent;
   color: transparent;
-  border: transparent;
+  border: none;
   padding: 8px 12px;
   border-radius: 8px;
   cursor: pointer;
@@ -37,4 +39,5 @@ body {
 
 .botao:hover {
   background-color: #a81324;
+  opacity: 1;
 }
