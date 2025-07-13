@@ -26,9 +26,9 @@ body {
 .botao {
   position: absolute;
   transform: translate(-50%, -50%);
-  background-color: none;
-  color: none;
-  border: none;
+  background-color: transparent;
+  color: transparent;
+  border: transparent;
   padding: 8px 12px;
   border-radius: 8px;
   cursor: pointer;
