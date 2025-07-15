@@ -5,6 +5,13 @@ body {
   margin: 0;
 }
 
+.subtitulo {
+  font-weight: normal;
+  font-size: 20px; 
+  margin-top: 20px;
+  color: #333;
+}
+
 .mapa-container {
   position: relative;
   display: inline-block;
