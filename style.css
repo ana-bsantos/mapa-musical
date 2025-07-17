@@ -50,10 +50,10 @@ body {
 }
 
 .creditos {
-  font-size: 12px;        /* 🔹 Texto pequeno */
-  color: #333;            /* 🔹 Cor discreta */
-  text-align: center;     /* 🔹 Centralizado */
-  margin: 40px 20px 20px; /* 🔹 Espaçamento do topo e das laterais */
+  font-size: 12px;        
+  color: #333;           
+  text-align: center;     
+  margin: 40px 20px 20px; 
   line-height: 1.4;
 }
 
