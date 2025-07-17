@@ -56,3 +56,10 @@ body {
   margin: 40px 20px 20px; /* 🔹 Espaçamento do topo e das laterais */
   line-height: 1.4;
 }
+
+audio {
+  display: block;
+  margin: 20px auto;
+  width: 90%;
+  max-width: 400px;
+}
