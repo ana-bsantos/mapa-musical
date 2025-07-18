@@ -58,11 +58,16 @@ audio player {
   z-index: 2 
 }
 
-
 .creditos {
   font-size: 12px;        
   color: #333;           
   text-align: center;     
   margin: 40px 20px 20px; 
   line-height: 1.4;
+}
+
+@supports (-webkit-touch-callout: none) {
+  #audio-player {
+    margin-bottom: 60px;
+  }
 }
