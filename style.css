@@ -63,4 +63,5 @@ audio {
   margin: 20px auto;
   width: 20%;
   max-width: 30px;
+  z-index: 1; 
 }
